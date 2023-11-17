@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/subrat-behera-466786247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[linkedin.com/in/ankit-singh-chauhan-4064a3233](https://www.linkedin.com/in/subrat-behera-466786247/)" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/subrat-behera-466786247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="(https://www.linkedin.com/in/subrat-behera-466786247/)" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_sb_2520/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sb_2520" height="30" width="40" /></a>
 <a href="https://leetcode.com/_sb_2520/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_sb_2520" height="30" width="40" /></a>
 </p>
