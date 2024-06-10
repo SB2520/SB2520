@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Subrat Behera</h1>
-<h3 align="center">A passionate to do coding and frontend backend developer.</h3>
+<h3 align="center">Aspiring Data Scientist | Specializing in Analytics and Data Visualization | AI Enthusiast | Passionate Coder | Backend Developer</h3>
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=SB2520&color=0e75b6&style=flat" alt="SB2520" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SB2520" alt="SB2520" /></a> </p>
