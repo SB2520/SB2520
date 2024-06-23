@@ -35,6 +35,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SB2520&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<img align="right" alt="coding" width="400" src ="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif"
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
