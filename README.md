@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subrat Behera</h1>
-<h3 align="center">Aspiring Data Scientist | Specializing in Analytics and Data Visualization | AI Enthusiast | Backend Developer</h3>
+<h3 align="center">Aspiring Data Scientist | AI Enthusiast | Backend Developer</h3>
 
 
 # 💫 About Me:
@@ -37,4 +37,5 @@
 
 
 
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
