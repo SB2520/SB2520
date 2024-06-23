@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Subrat Behera</h1>
+<h3 align="center">Aspiring Data Scientist | Specializing in Analytics and Data Visualization | AI Enthusiast | Passionate Coder | Backend Developer</h3>
+
+
 # 💫 About Me:
 🌱 Aspiring Data Scientist<br>📊 Specializing in Analytics and Data Visualization<br>🤖 AI Enthusiast | Passionate Coder<br>🔧 Backend Developer<br><br>📫 How to reach me: sb998001@gmail.com<br>⚡ Fun fact: I have a knack for turning complex data into compelling stories.
 
