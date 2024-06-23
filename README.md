@@ -22,6 +22,16 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SB2520&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=SB2520&color=0e75b6&style=flat" alt="SB2520" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SB2520" alt="SB2520" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img align="right" alt="coding" width="400" src ="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif"
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SB2520&label=Profile%20views&color=0e75b6&style=flat" alt="SB2520" /> </p>
+
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SB2520&limit=5&theme=dark&combine_all_yearly_contributions=true)
