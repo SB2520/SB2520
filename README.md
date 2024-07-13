@@ -6,7 +6,6 @@
 ## 💫 About Me:
 🌱 Aspiring Data Scientist<br>📊 Specializing in Analytics and Data Visualization<br>🤖 AI Enthusiast | Passionate Coder<br>🔧 Backend Developer<br><br>📫 How to reach me: sb998001@gmail.com<br>⚡ Fun fact: I have a knack for turning complex data into compelling stories.
 
-<br>
 [![Portfolio](https://img.shields.io/badge/Visit_My_Website-green?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://my-portfolio-five-alpha-58.vercel.app/)
 
 ## 🌐 Socials:
