@@ -5,6 +5,7 @@
 ## 💫 About Me:
 -->
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif">
+
 ## 💫 About Me:
 🌱 Aspiring Data Scientist<br>📊 Specializing in Analytics and Data Visualization<br>🤖 AI Enthusiast | Passionate Coder<br>🔧 Backend Developer<br><br>📫 How to reach me: sb998001@gmail.com<br>⚡ Fun fact: I have a knack for turning complex data into compelling stories.
 
