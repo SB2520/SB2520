@@ -5,12 +5,11 @@
 
 ## 💫 About Me:
 🌱 Aspiring Data Scientist<br>📊 Specializing in Analytics and Data Visualization<br>🤖 AI Enthusiast | Passionate Coder<br>🔧 Backend Developer<br><br>📫 How to reach me: sb998001@gmail.com<br>⚡ Fun fact: I have a knack for turning complex data into compelling stories.
-
+[![Portfolio](https://img.shields.io/badge/Visit_My_Website-green?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://my-portfolio-five-alpha-58.vercel.app/)
 
 ## 🌐 Socials:
 
 <h3 align="left">Connect with me:</h3>
-[![Portfolio](https://img.shields.io/badge/Visit_My_Website-green?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://my-portfolio-five-alpha-58.vercel.app/)
 <p align="left">
 <a href="https://www.linkedin.com/in/subrat-behera-466786247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="(https://www.linkedin.com/in/subrat-behera-466786247/)" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_sb_2520/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sb_2520" height="30" width="40" /></a>
